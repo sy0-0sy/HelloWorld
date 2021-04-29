@@ -19,6 +19,8 @@ public class Hello implements Runnable{
             if(i==900){
                 hello.stop();
                 System.out.println("------子进程停----------");
+                System.out.println("------github test----------");
+                
             }
         }
     }
